@@ -32,4 +32,4 @@ LangChain is a powerful framework for building applications with language models
 ## Agent
 - **Introduction**: Understand the role of agents in LangChain.
 - **Tool and Toolkit**: Learn about the tools and toolkits available for agents.
-- **Building an Agent**: Step-by-step guide on building agents with LangChain.                                
+- **Building an Agent**: Step-by-step guide on building agents with LangChain.

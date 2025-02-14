@@ -6,7 +6,7 @@ import os
 load_dotenv()
 
 # Hardcoded API Key (Use with caution)
-groq_api_key = "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"
+groq_api_key = "api key"
 
 # Initialize Groq LLM (Chat-based model)
 llm = ChatGroq(model_name="mixtral-8x7b-32768", groq_api_key=groq_api_key)
